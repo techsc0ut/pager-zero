@@ -1,8 +1,9 @@
 # Model smoke benchmarks
 
 - Date: 2026-10-27
-- Chat model: gpt-4.1-mini
+- Base URL: https://eu.api.openai.com/v1
+- Chat model: gpt-4o-mini
 - Embedding model: text-embedding-3-small
-- Tool-calling latency (ms): 606
-- Chat total tokens: unknown
-- Embedding dimensions: 0
+- Tool-calling latency (ms): 1809
+- Chat total tokens: 81
+- Embedding dimensions: 1536
